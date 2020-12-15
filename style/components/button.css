@@ -1,0 +1,14 @@
+
+.button {
+	background-color: blue;
+	padding: 10px 30px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Comfortaa', serif;
+	font-size: 21px;
+}
+.button:hover {
+	background-color: red;
+	color: white;
+}
